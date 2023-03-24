@@ -10,7 +10,9 @@ public class ImageVO {
 	private Date regDate;
 	private int articleNO;
 	
-	
+	public ImageVO() {
+		System.out.println("ImageVO °´Ã¼ »ý¼º");
+	}
 	
 	public int getImageFileNO() {
 		return imageFileNO;
