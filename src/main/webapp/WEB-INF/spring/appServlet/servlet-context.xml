@@ -48,7 +48,7 @@
 	
 	
 	
-    <context:component-scan	base-package="com.myspring.pro30" />
+  
 	
 	<!--The ordered set of interceptors that intercept HTTP Servlet Requests 
 			handled by Controllers. Interceptors allow requests to be pre/post processed 
